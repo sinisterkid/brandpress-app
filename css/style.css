@@ -1,5 +1,6 @@
 html, body {
 	height: 100%;
+	overflow-y: auto;
 }
 body {
 	background-color: #fcfcfc;
@@ -12,4 +13,9 @@ body {
 }
 .is-white {
 	background-color: #fff;
+}
+a.delete {
+	position: absolute;
+    top: 1rem;
+    right: 1rem;
 }
