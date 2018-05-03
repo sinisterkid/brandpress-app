@@ -4,3 +4,12 @@ html, body {
 body {
 	background-color: #fcfcfc;
 }
+* {
+	font-size: .9rem;
+}
+.navbar-item img {
+	opacity: 1;
+}
+.is-white {
+	background-color: #fff;
+}
