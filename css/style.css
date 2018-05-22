@@ -3,7 +3,7 @@ html, body {
 	overflow-y: auto;
 }
 body {
-	background-color: #fcfcfc;
+	background-color: #f6f6f8;
 }
 * {
 	font-size: .9rem;
@@ -18,4 +18,28 @@ a.delete {
 	position: absolute;
     top: 1rem;
     right: 1rem;
+}
+.media-content .title {
+	font-size: 1.5rem;
+}
+.media-content .subtitle {
+	font-size: 1rem;
+}
+.box {
+	min-height: 120px;
+}
+.menu-list a.is-active {
+    background-color: transparent;
+    color: #000;
+    font-weight: bolder;
+}
+.progress {
+	height: 4px;
+}
+.box {
+	box-shadow: none;
+	border-radius: 0;
+}
+.box:hover {
+	box-shadow: 0 2px 3px rgba(10,10,10,.1), 0 0 0 1px rgba(10,10,10,.1);;
 }
