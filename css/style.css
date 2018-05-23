@@ -43,3 +43,22 @@ a.delete {
 .box:hover {
 	box-shadow: 0 2px 3px rgba(10,10,10,.1), 0 0 0 1px rgba(10,10,10,.1);;
 }
+.is-full-width {
+	width: 100%;
+}
+.card-no-shadow {
+	box-shadow: none;
+}
+.card-header {
+	box-shadow: none;
+}
+.card-padding {
+	padding: 3rem 4rem;
+}
+.card-signin {
+	padding: 4rem 8rem;
+}
+.card-footer {
+	padding: 1rem 0;
+	border-top: 1px solid #f6f6f8;
+}
