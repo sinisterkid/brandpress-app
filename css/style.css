@@ -55,15 +55,12 @@ a.delete {
 .card-padding {
 	padding: 3rem 4rem;
 }
-.card-signin {
-	padding: 4rem 6rem;
-}
 .card-footer {
 	padding: 1rem 0;
 	border-top: 1px solid #f6f6f8;
 }
 @media screen and (max-width: 1366px) {
-	.card-signin {
+	.card-padding {
 		padding: 2rem;
 	}
 }
