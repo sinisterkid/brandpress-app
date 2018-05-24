@@ -59,6 +59,13 @@ a.delete {
 	padding: 1rem 0;
 	border-top: 1px solid #f6f6f8;
 }
+.panel-block.is-active {
+    border-left-color: #363636;
+    font-weight: bolder;
+ }
+ .button.is-text {
+    text-decoration: none;
+}
 @media screen and (max-width: 1366px) {
 	.card-padding {
 		padding: 2rem;
