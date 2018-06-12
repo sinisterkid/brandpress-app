@@ -1,0 +1,44 @@
+/* question box */
+.sv_qcbc {
+    border: 0;
+    padding: 0 1rem;
+}
+.sv_nav {
+    padding: 2em 0;
+}
+/* checkboxes */
+.sv_qcbx {
+    padding: 0 1rem;
+}
+.label {
+	padding: 0 0 1rem 0;
+	line-height: 1.75px
+}
+h5.label span {
+	font-size: 1.5rem;
+	line-height: 1.75rem;
+}
+.sv_row {
+	text-align: left;
+	padding: 3rem;
+	background-color: #fff;
+}
+.progress {
+	position: relative;
+	width: 100%!important;
+	margin: 1rem 0;
+}
+.sv_container .custom-body {
+	background-color: transparent;
+}
+#react-root {
+    height: 100%;
+}
+#react-root .section {
+	height: 100%;
+}
+#react-root .container {
+	position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
