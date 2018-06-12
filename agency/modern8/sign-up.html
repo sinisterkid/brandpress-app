@@ -3,11 +3,18 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>BrandPress Login</title>
+    <title>modern8 | Create account</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.0/css/bulma.min.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" type="image/png" href="images/bp-favicon.png">
+    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="icon" href="http://www.modern8.com/favicon.ico" type="image/x-icon" />
     <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+    <style>
+    .is-yellow {
+    	background-color: #FDC038;
+    	border-color: transparent;
+    	color: rgba(0,0,0,.7);
+    }
+	</style>
   </head>
   <body>
   <section class="section">
@@ -18,14 +25,23 @@
       	<div class="column is-5">
       		<div class="columns">
       		<div class="column has-text-centered">
-<img src="images/bp-mercury-black@2x.png" width="125">
+<img src="images/m8-logo.png" width="80">
       	<p class="is-size-6">
-        	Sign into your account here:
+        	Create your modern8 branding account
       	</p>
       </div>
   </div>
 	      <div class="card card-no-shadow">
 	      	<div class="card-content card-padding">
+				<div class="field">
+					<label class="label">Company name</label>
+				  <p class="control has-icons-left">
+				    <input class="input" type="email" placeholder="Company name">
+				    <span class="icon is-small is-left">
+				      <i class="fas fa-building"></i>
+				    </span>
+				  </p>
+				</div>
 				<div class="field">
 					<label class="label">Email</label>
 				  <p class="control has-icons-left has-icons-right">
@@ -54,8 +70,8 @@
 			
 				<div class="field">
 				  <div class="control">
-				    <a class="button is-dark is-full-width" href="groups.html">
-				      Login
+				    <a class="button is-yellow is-full-width" href="groups.html">
+				      Create account
 				    </a>
 				  </div>
 				</div>
@@ -63,7 +79,7 @@
 			<div class="card-footer">
 				<div class="card-footer-item">
 				<p>
-					Don't have an account? <a href="sign-up.html">Sign up</a>
+					Already have an account? <a href="sign-in.html">Sign in</a>
 				</p>
 			</div>
 			</div>
