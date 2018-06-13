@@ -42,3 +42,20 @@ h5.label span {
     top: 50%;
     transform: translateY(-50%);
 }
+/* Images */
+ul.thumbnails.image_picker_selector li {
+	display: inline-block;
+    width: 30%;
+}
+ul.thumbnails.image_picker_selector li .thumbnail.selected {
+	background-color: #333;
+}
+ul.thumbnails.image_picker_selector li .thumbnail {
+	padding: 3px;
+	line-height: 0;
+}
+@media screen and (max-width: 600px) {
+	ul.thumbnails.image_picker_selector li {
+		width: 100%;
+	}
+}
