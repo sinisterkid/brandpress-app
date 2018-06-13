@@ -66,6 +66,21 @@ a.delete {
  .button.is-text {
     text-decoration: none;
 }
+/* BRAND COLORS */
+.button.is-brand {
+	background-color: #363636;
+	border-color: transparent;
+	color: #f5f5f5;
+}
+.button.is-brand.is-hovered, .button.is-brand:hover {
+    opacity: .85;
+}
+.menu-list a.is-brand {
+    background-color: transparent;
+    color: #363636;
+    font-weight: bolder;
+}
+.progress.is-brand::-webkit-progress-value{background-color:#363636}.progress::-moz-progress-bar{background-color:#363636}.progress::-ms-fill{background-color:#363636;border:none};
 @media screen and (max-width: 1366px) {
 	.card-padding {
 		padding: 2rem;
