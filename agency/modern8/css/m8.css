@@ -1,0 +1,18 @@
+/* M8 COLORS */
+svg#logo {
+    fill: #FDBF38;
+}
+.button.is-brand {
+	background-color: #FDBF38;
+	border-color: transparent;
+	color: #333;
+}
+.button.is-brand.is-hovered, .button.is-brand:hover {
+    opacity: .85;
+}
+.menu-list a.is-brand {
+    background-color: transparent;
+    color: #333;
+    font-weight: bolder;
+}
+.progress.is-brand::-webkit-progress-value{background-color:#FDBF38}.progress::-moz-progress-bar{background-color:#FDBF38}.progress::-ms-fill{background-color:#FDBF38;border:none};
