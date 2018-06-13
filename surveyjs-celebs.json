@@ -1,0 +1,75 @@
+{
+ pages: [
+  {
+   name: "page1",
+   elements: [
+    {
+     type: "imagepicker",
+     name: "choospicture",
+     title: "A celebrity endorsement puts a face to a brand. If you could pick one celebrity to endorse your new brand, who would it be?",
+     choices: [
+     {
+      value: "Bear Grylls",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/celebs/bear-grylls.jpg"
+      },
+      {
+      value: "Chris Pratt",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/celebs/chris-pratt.jpg"
+      },
+      {
+      value: "Ellen",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/celebs/ellen.jpg"
+      },
+      {
+      value: "Elon Musk",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/celebs/elon-musk.jpg"
+      },
+      {
+      value: "Kanye West",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/celebs/kanye-west.jpg"
+      },
+      {
+      value: "Neil deGrasse Tyson",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/celebs/neil-degrasse-tyson.jpg"
+      },
+      {
+      value: "Oprah",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/celebs/oprah.jpg"
+      },
+      {
+      value: "Scarlett Johansson",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/celebs/scarlett-johansson.jpg"
+      },
+      {
+      value: "Steph Curry",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/celebs/steph-curry.jpg"
+      },
+      {
+      value: "Steve Jobs",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/celebs/steve-jobs.jpg"
+      },
+      {
+      value: "Wes Anderson",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/celebs/wes-anderson.jpg"
+      },
+      {
+      value: "Will Ferrell",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/celebs/will-ferrell.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   name: "page2",
+   elements: [
+    {
+     type: "comment",
+     name: "question2",
+     title: "Please explain why you chose this celebrity."
+    }
+   ]
+  }
+ ],
+ showQuestionNumbers: "off"
+}

@@ -1,0 +1,75 @@
+{
+ pages: [
+  {
+   name: "page1",
+   elements: [
+    {
+     type: "imagepicker",
+     name: "choospicture",
+     title: "Are there any national companies that have a brand image you admire?",
+     choices: [
+     {
+      value: "Adobe",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/brands/adobe.jpg"
+      },
+      {
+      value: "Amex",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/brands/amex.jpg"
+      },
+      {
+      value: "Carls Jr",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/brands/carls-jr.jpg"
+      },
+      {
+      value: "Coca-cola",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/brands/coca-cola.jpg"
+      },
+      {
+      value: "Disney",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/brands/disney.jpg"
+      },
+      {
+      value: "Doritos",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/brands/doritos.jpg"
+      },
+      {
+      value: "Harley Davidson",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/brands/harley-davidson.jpg"
+      },
+      {
+      value: "Johnson & Johnson",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/brands/johnson-johnson.jpg"
+      },
+      {
+      value: "Nike",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/brands/nike.jpg"
+      },
+      {
+      value: "North Face",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/brands/north-face.jpg"
+      },
+      {
+      value: "NPR",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/brands/npr.jpg"
+      },
+      {
+      value: "Victoria's Secret",
+      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/brands/victorias-secret.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   name: "page2",
+   elements: [
+    {
+     type: "comment",
+     name: "question2",
+     title: "Please explain why you chose this brand."
+    }
+   ]
+  }
+ ],
+ showQuestionNumbers: "off"
+}
