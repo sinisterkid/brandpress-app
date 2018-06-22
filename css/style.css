@@ -63,8 +63,18 @@ a.delete {
     border-left-color: #363636;
     font-weight: bolder;
  }
+ p.panel-block {
+    margin: 0!important;
+}
  .button.is-text {
     text-decoration: none;
+}
+.instructions {
+    background-color: #fff;
+    padding: 2rem;
+}
+.instructions article {
+	padding-bottom: 3rem;
 }
 /* BRAND COLORS */
 .button.is-brand {
