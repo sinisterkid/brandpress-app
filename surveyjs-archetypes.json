@@ -1,0 +1,365 @@
+{
+ "pages": [
+  {
+   "name": "page1",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "Accessible: friendly and easy to talk to; approachable.",
+     "title": "ACCESSIBLE: friendly and easy to talk to; approachable.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page2",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question1",
+     "title": "ADVENTUROUS: willing to take risks or try out new methods, ideas, or experiences.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page3",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question2",
+     "title": "AUTHORITATIVE: commanding and self-confident; likely to be respected and obeyed.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page4",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question3",
+     "title": "CAPABLE: having power and ability; efficient; competent.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page5",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question4",
+     "title": "CASUAL: relaxed and unconcerned; informal.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page6",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question5",
+     "title": "COURAGEOUS: not deterred by danger or risk; brave.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page7",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question6",
+     "title": "DARING: adventurous or audaciously bold.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page8",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question7",
+     "title": "ENCHANTING: delightfully charming or attractive.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page9",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question8",
+     "title": "ENLIGHTENED: having or showing a rational, modern, and well-informed outlook.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page10",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question9",
+     "title": "FUN: amusing, entertaining, or enjoyable.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page11",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question10",
+     "title": "HAPPY: delighted, pleased, or glad.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page12",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question11",
+     "title": "HELPFUL: giving or ready to give aid or assistance.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page13",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question12",
+     "title": "IMAGINATIVE: having or showing creativity or inventiveness.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page14",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question13",
+     "title": "INTELLIGENT: having good understanding or a high capacity; quick to comprehend.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page15",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question14",
+     "title": "INTIMATE: closely acquainted; personal, close.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page16",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question15",
+     "title": "INVENTIVE: having the ability to create or design new things or to think originally.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page17",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question16",
+     "title": "LIVELY: full of life and energy; active and outgoing.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page18",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question17",
+     "title": "PROTECTIVE: having or showing a strong wish to keep someone or something safe.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page19",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question18",
+     "title": "PROVOCATIVE: arousing desire or interest deliberately. (Not necessarily sexual)",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page20",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question19",
+     "title": "SKILLED: having or showing the knowledge, ability, or training to perform certain activities.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page21",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question20",
+     "title": "REBELLIOUS: showing a desire to resist authority, control, or convention.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page22",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question21",
+     "title": "REVOLUTIONARY: radically new or innovative; outside or beyond established procedure, principles, etc.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page23",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question22",
+     "title": "VIRTUOUS: free from moral wrong; pure and wholesome.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page24",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question23",
+     "title": "VISIONARY: thinking about or planning the future with imagination or wisdom.",
+     "choices": [
+      "Important",
+      "Neutral",
+      "Not important"
+     ]
+    }
+   ]
+  }
+ ],
+ "showQuestionNumbers": "off"
+}

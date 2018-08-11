@@ -1,75 +1,75 @@
 {
- pages: [
+ "pages": [
   {
-   name: "page1",
-   elements: [
+   "name": "page1",
+   "elements": [
     {
-     type: "imagepicker",
-     name: "choospicture",
-     title: "Imagine your new brand has to take the form of a car. Which car would be the best fit?",
-     choices: [
+     "type": "imagepicker",
+     "name": "choospicture",
+     "title": "Imagine your new brand has to take the form of a car. Which car would be the best fit?",
+     "choices": [
      {
-      value: "Classic",
-      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/cars/classic.jpg"
+      "value": "Classic",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/cars/classic.jpg"
       },
       {
-      value: "Concept car",
-      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/cars/concept-car.jpg"
+      "value": "Concept car",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/cars/concept-car.jpg"
       },
       {
-      value: "Formula",
-      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/cars/formula-one.jpg"
+      "value": "Formula",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/cars/formula-one.jpg"
       },
       {
-      value: "Hatchback",
-      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/cars/hatchback.jpg"
+      "value": "Hatchback",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/cars/hatchback.jpg"
       },
       {
-      value: "Hybrid",
-      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/cars/hybrid.jpg"
+      "value": "Hybrid",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/cars/hybrid.jpg"
       },
       {
-      value: "Limousine",
-      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/cars/limo.jpg"
+      "value": "Limousine",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/cars/limo.jpg"
       },
       {
-      value: "Luxury sedan",
-      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/cars/luxury-sedan.jpg"
+      "value": "Luxury sedan",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/cars/luxury-sedan.jpg"
       },
       {
-      value: "Motorcycle",
-      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/cars/motorcycle.jpg"
+      "value": "Motorcycle",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/cars/motorcycle.jpg"
       },
       {
-      value: "Sports car",
-      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/cars/sports-car.jpg"
+      "value": "Sports car",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/cars/sports-car.jpg"
       },
       {
-      value: "SUV",
-      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/cars/suv.jpg"
+      "value": "SUV",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/cars/suv.jpg"
       },
       {
-      value: "Tesla",
-      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/cars/tesla.jpg"
+      "value": "Tesla",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/cars/tesla.jpg"
       },
       {
-      value: "Van",
-      imageLink: "https://s3-us-west-2.amazonaws.com/brandpress/cars/van.jpg"
+      "value": "Van",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/cars/van.jpg"
       }
      ]
     }
    ]
   },
   {
-   name: "page2",
-   elements: [
+   "name": "page2",
+   "elements": [
     {
-     type: "comment",
-     name: "question2",
-     title: "Please explain why you chose that car."
+     "type": "comment",
+     "name": "question2",
+     "title": "Please explain why you chose that car."
     }
    ]
   }
  ],
- showQuestionNumbers: "off"
+ "showQuestionNumbers": "off"
 }

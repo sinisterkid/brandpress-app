@@ -1,0 +1,315 @@
+{
+ "pages": [
+  {
+   "name": "page1",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "ratherBe1",
+     "title": "Would you rather be ROUTINE or VARIED?",
+     "choices": [
+      {
+       "value": "Routine: regular, stable, and habitual.",
+       "text": "Routine - regular, stable, and habitual."
+      },
+      {
+       "value": "Varied: showing variation or variety.",
+       "text": "Varied - showing variation or variety."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page2",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question2",
+     "title": "Would you rather be ESTABLISHED or DARING?",
+     "choices": [
+      {
+       "value": "Established: permanently accepted and recognized.",
+       "text": "Established - permanently accepted and recognized."
+      },
+      {
+       "value": "Daring: boldly unconventional.",
+       "text": "Daring - boldly unconventional."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page3",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question6",
+     "title": "Would you rather be CONVENTIONAL or INNOVATIVE?",
+     "choices": [
+      {
+       "value": "Conventional: following tried and true standards.",
+       "text": "Conventional - following tried and true standards."
+      },
+      {
+       "value": "Innovative: featuring new methods; advanced and original.",
+       "text": "Innovative - featuring new methods; advanced and original."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page4",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question9",
+     "title": "Would you rather be TRADITIONAL or MODERN?",
+     "choices": [
+      {
+       "value": "Traditional: adhering to tradition or established norms.",
+       "text": "Traditional - adhering to tradition or established norms."
+      },
+      {
+       "value": "Modern: characterized by or using the most up-to-date techniques, ideas, or equipment.",
+       "text": "Modern - characterized by or using the most up-to-date techniques, ideas, or equipment."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page5",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question11",
+     "title": "Would you rather be SECURE or ADVENTURUOUS?",
+     "choices": [
+      {
+       "value": "Secure: feeling safe, stable, and free from fear or anxiety.",
+       "text": "Secure - feeling safe, stable, and free from fear or anxiety."
+      },
+      {
+       "value": "Adventurous: willing to take risks or to try out new methods, ideas, or experiences.",
+       "text": "Adventurous - willing to take risks or to try out new methods, ideas, or experiences."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page6",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question1",
+     "title": "Would you rather be EFFICIENT or CAREFREE?",
+     "choices": [
+      "Efficient - working in a well-organized and competent way.",
+      "Carefree - without anxiety or worry."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page7",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question3",
+     "title": "Would you rather be ORGANIZED or FLEXIBLE?",
+     "choices": [
+      "Organized - arranged in a systematic way.",
+      "Flexible - ready and able to change so as to adapt to different circumstances."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page8",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question4",
+     "title": "Would you rather be THOROUGH or SPONTANEOUS?",
+     "choices": [
+      "Thorough - attentive to accuracy and detail.",
+      "Spontaneous - having an open, natural, and uninhibited manner."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page9",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question5",
+     "title": "Would you rather be DEPENDABLE or UNPREDICTABLE?",
+     "choices": [
+      "Dependable - trustworthy and reliable.",
+      "Unpredictable - behaving in a way that is not easily predicted."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page10",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question7",
+     "title": "Would you rather be COMPLEX or SIMPLE?",
+     "choices": [
+      "Complex - consisting of many different and connected parts.",
+      "Simple - easily understood or done."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page11",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question8",
+     "title": "Would you rather be OBVIOUS or SUBTLE?",
+     "choices": [
+      "Obvious - easily perceived, apparent or clear.",
+      "Subtle - inconspicuous and understated."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page12",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question10",
+     "title": "Would you rather be FLASHY or DISCREET?",
+     "choices": [
+      "Flashy - ostentatiously attractive or impressive.",
+      "Discreet - intentionally unobtrusive."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page13",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question12",
+     "title": "Would your rather be TALKATIVE or OBSERVANT?",
+     "choices": [
+      "Talkative - fond of talking; socializing.",
+      "Observant - watchful; attentive."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page14",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question13",
+     "title": "Would you rather be ENERGETIC or FAMILIAR?",
+     "choices": [
+      "Energetic - involving great activity or vitality.",
+      "Familiar - associated in close personal relations."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page15",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question14",
+     "title": "Would you rather be SOCIABLE or INDEPENDENT?",
+     "choices": [
+      "Sociable - willing to talk and engage in activities with other people; friendly.",
+      "Independent - not influenced by the thought or action of others."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page16",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question15",
+     "title": "Would you rather be AUTHORITATIVE or HELPFUL?",
+     "choices": [
+      "Authoritative - commanding and self-confident; likely to be respected and obeyed.",
+      "Helpful - giving or ready to give aid or assistance."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page17",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question16",
+     "title": "Would you rather be DIRECT or WARM?",
+     "choices": [
+      "Direct - straightforward; frank.",
+      "Warm - showing affection or kindness."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page18",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question17",
+     "title": "Would you rather be CAREFUL or CONSIDERATE?",
+     "choices": [
+      "Careful - cautious in one's actions.",
+      "Considerate - showing kindly awareness or regard for another's feelings"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page19",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question18",
+     "title": "Would you rather be an EXPERT or COURTEOUS?",
+     "choices": [
+      "Expert - having or involving authoritative knowledge.",
+      "Courteous - polite, respectful, or considerate in manner."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page20",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question19",
+     "title": "Would you rather be PROFESSIONAL or FRIENDLY?",
+     "choices": [
+      "Professional - a person who is expert at his or her work.",
+      "Friendly - kind and pleasant."
+     ]
+    }
+   ]
+  }
+ ],
+ "showQuestionNumbers": "off"
+}

@@ -1,0 +1,185 @@
+{
+ "pages": [
+  {
+   "name": "page1",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question13",
+     "title": "What are you branding?",
+     "choices": [
+      "A product",
+      "A company",
+      "A service"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page2",
+   "elements": [
+    {
+     "type": "text",
+     "name": "question2",
+     "title": "What is your brand name, if you have one?"
+    }
+   ]
+  },
+  {
+   "name": "page3",
+   "elements": [
+    {
+     "type": "text",
+     "name": "question3",
+     "title": "What is your brand mission?"
+    }
+   ]
+  },
+  {
+   "name": "page5",
+   "elements": [
+    {
+     "type": "dropdown",
+     "name": "question5",
+     "title": "What industry will you operate in?",
+     "choices": [
+      "Arts and Entertainment",
+      "Automotive",
+      "Beauty and Fitness",
+      "Books and Literature",
+      "Business and Industrial Markets",
+      "Computers and Electronics",
+      "Finance",
+      "Food and Drink",
+      "Games",
+      "Healthcare",
+      "Hobbies and Leisure",
+      "Home and Garden",
+      "Internet and Telecom",
+      "Jobs and Education",
+      "Law and Government",
+      "News",
+      "Online Communities",
+      "People and Society",
+      "Pets and Animals",
+      "Real Estate",
+      "Reference",
+      "Science",
+      "Shopping",
+      "Sports",
+      "Travel"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page6",
+   "elements": [
+    {
+     "type": "comment",
+     "name": "question6",
+     "title": "What are the key points in the history of your company?"
+    }
+   ]
+  },
+  {
+   "name": "page7",
+   "elements": [
+    {
+     "type": "text",
+     "name": "question7",
+     "title": "Who are your main competitors?"
+    }
+   ]
+  },
+  {
+   "name": "page8",
+   "elements": [
+    {
+     "type": "text",
+     "name": "question8",
+     "title": "What is the single most important thing that sets you apart from your competitors?"
+    }
+   ]
+  },
+  {
+   "name": "page9",
+   "elements": [
+    {
+     "type": "checkbox",
+     "name": "question9",
+     "title": "How old are your target customers?",
+     "choices": [
+      "17 or younger",
+      "18 to 24",
+      "25 to 34",
+      "35 to 44",
+      "45 to 54",
+      "55 to 64",
+      "65 to 74",
+      "85 or older",
+      "Don't know"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page10",
+   "elements": [
+    {
+     "type": "checkbox",
+     "name": "question10",
+     "title": "What is their socioeconomic status?",
+     "choices": [
+      "Upper class",
+      "Middle class",
+      "Lower middle class",
+      "Skilled working class",
+      "Working class",
+      "Low income earners",
+      "Don't know"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page11",
+   "elements": [
+    {
+     "type": "checkbox",
+     "name": "question11",
+     "title": "How will they hear about your brand?",
+     "choices": [
+      "Store",
+      "Website",
+      "Social media",
+      "Ratings & reviews",
+      "Advertising",
+      "Emails",
+      "Events",
+      "Other"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page12",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "question12",
+     "title": "What is the most important feeling your new brand should give customers?",
+     "choices": [
+      "A sense of belonging and enjoyment.",
+      "A sense of independence and self-fulfillment.",
+      "A sense of stability and control.",
+      "A sense of mastery and achievement."
+     ]
+    }
+   ]
+  }
+ ],
+ "showPageTitles": false,
+ "showQuestionNumbers": "off",
+ "showProgressBar": "top"
+}
