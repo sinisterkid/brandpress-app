@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Acme Inventors | Brandpress</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.0/css/bulma.min.css">
+    <link rel="stylesheet" href="css/style-projects.css">
+    <link rel="icon" type="image/png" href="images/bp-press-favicon.png">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+  </head>
+  <body>
+
+          <section class="section">
+      
+    <div class="columns">
+      
+      <div class="column is-one-fifth">
+            <aside class="menu">
+              <ul class="menu-list">
+    <li><a class="navbar-item" href="groups.html">
+      <img src="images/bp-press-mask.png" width="140px" alt="Brandpress">
+    </a></li>
+    <li><a class="navbar-item is-active" href="projects.html">
+      <span class="icon">
+        <i class="fas fa-box"></i>
+      </span>
+        <span>Projects</span>
+      </a>
+    </li>
+      <li>
+      <a class="navbar-item" href="instructions.html">
+      <span class="icon">
+        <i class="fas fa-map"></i>
+      </span>
+        <span>Instructions</span>
+      </a></li>
+      <li>
+      <a class="navbar-item" href="pricing.html">
+      <span class="icon">
+        <i class="fas fa-check"></i>
+      </span>
+        <span>Pricing</span>
+      </a></li>
+      <li>
+        <a href="project-account-settings.html">
+      <span class="icon">
+        <i class="fas fa-cog"></i>
+      </span>
+        <span>Settings</span></a>
+      </li>
+              </ul>
+              
+            </aside>
+      </div>
+      <div class="column projects">
+        <h1 class="title is-2">Acme Inventors</h1>
+
+    <!--tabs-->
+    <div class="tabs">
+  <ul>
+    <li><a href="project-origins.html">Responses</a></li>
+    <li><a href="#">Present</a></li>
+    <li class="is-active"><a href="project-share.html">Share</a></li>
+    <li><a href="project-settings.html">Settings</a></li>
+  </ul>
+</div>
+        <h1 class="title is-4">
+          Share exercises
+        </h1>       
+        <div class="card">
+          <div class="card-content">
+        <div class="field">
+          <label class="label">Your unique group URL</label>
+          <p>Copy and paste the link below into emails, chats, or browsers</p>
+          <p class="control">
+            <input class="input" type="email" placeholder="Group name" value="https://sinisterkid.github.io/bulma-ui/exercise-intro.html">
+          </p>          
+        </div>
+        <div class="field is-grouped">
+          <div class="control">
+            <button class="button is-dark">
+              Copy share URL
+            </button>
+          </div>
+        </div>
+      </div></div>
+
+
+    </section>
+    </div>
+
+
+  </div>
+</section>
+    </div>
+  <script>
+document.addEventListener('DOMContentLoaded', function () {
+
+  // Get all "navbar-burger" elements
+  var $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+  // Check if there are any navbar burgers
+  if ($navbarBurgers.length > 0) {
+
+    // Add a click event on each of them
+    $navbarBurgers.forEach(function ($el) {
+      $el.addEventListener('click', function () {
+
+        // Get the target from the "data-target" attribute
+        var target = $el.dataset.target;
+        var $target = document.getElementById(target);
+
+        // Toggle the class on both the "navbar-burger" and the "navbar-menu"
+        $el.classList.toggle('is-active');
+        $target.classList.toggle('is-active');
+
+      });
+    });
+  }
+
+});   
+  </script>
+  </body>
+</html>

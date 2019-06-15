@@ -1,0 +1,86 @@
+html, body {
+	height: 100%;
+	overflow-y: auto;
+}
+body {
+	background-color: #fff;
+}
+.navbar-item img {
+	opacity: 1;
+}
+.is-white {
+	background-color: #fff;
+}
+a.delete {
+	position: absolute;
+    top: 1rem;
+    right: 1rem;
+}
+.menu-list a.is-active {
+    background-color: transparent;
+    color: #000;
+    font-weight: bolder;
+}
+.progress {
+	height: 4px;
+}
+.is-full-width {
+	width: 100%;
+}
+.card-no-shadow {
+	box-shadow: none;
+}
+.card-header {
+	box-shadow: none;
+}
+.card-padding {
+	padding: 3rem 4rem;
+}
+.card-footer {
+	padding: 1rem 0;
+	border-top: 1px solid #f6f6f8;
+}
+.panel-block.is-active {
+    border-left-color: #363636;
+    font-weight: bolder;
+ }
+ .projects {
+ 	max-width: 750px;
+ 	margin: auto;
+ }
+ .box:hover {
+	box-shadow: 0 2px 3px rgba(10,10,10,.2), 0 0 0 1px rgba(10,10,10,.2);;
+}
+ p.panel-block {
+    margin: 0!important;
+}
+ .button.is-text {
+    text-decoration: none;
+}
+.instructions {
+    background-color: #fff;
+    padding: 2rem;
+}
+.instructions article {
+	padding-bottom: 3rem;
+}
+/* BRAND COLORS */
+.button.is-brand {
+	background-color: #363636;
+	border-color: transparent;
+	color: #f5f5f5;
+}
+.button.is-brand.is-hovered, .button.is-brand:hover {
+    opacity: .85;
+}
+.menu-list a.is-brand {
+    background-color: transparent;
+    color: #363636;
+    font-weight: bolder;
+}
+.progress.is-brand::-webkit-progress-value{background-color:#363636}.progress::-moz-progress-bar{background-color:#363636}.progress::-ms-fill{background-color:#363636;border:none};
+@media screen and (max-width: 1366px) {
+	.card-padding {
+		padding: 2rem;
+	}
+}
