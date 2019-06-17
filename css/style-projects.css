@@ -44,9 +44,12 @@ a.delete {
     border-left-color: #363636;
     font-weight: bolder;
  }
- .projects {
+ .content-body {
  	max-width: 750px;
  	margin: auto;
+ }
+ .content-side {
+ 	border-right: 1px solid #ddd;
  }
  .box:hover {
 	box-shadow: 0 2px 3px rgba(10,10,10,.2), 0 0 0 1px rgba(10,10,10,.2);;
