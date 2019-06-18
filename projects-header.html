@@ -11,45 +11,82 @@
   </head>
   <body>
 
-<nav class="navbar">
+<!--Navbar -->
+<nav class="navbar is-dark" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item" href="groups.html">
-      <img src="images/bp-press-mask.png" width="140px" alt="Brandpress">
+    <a class="navbar-item" href="projects-header.html">
+      <img src="images/bp-press-mask-white.png" width="140px">
     </a>
-    <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
-      <span></span>
-      <span></span>
-      <span></span>
-    </div>
+
+    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
   </div>
 
-  <div id="navbarExampleTransparentExample" class="navbar-menu">
+  <div id="navbarBasicExample" class="navbar-menu">
     <div class="navbar-start">
-      <a class="navbar-item is-active" href="groups.html">
+      <a class="navbar-item" href="projects-header.html">
         Projects
       </a>
-      <a class="navbar-item" href="instructions.html">
+
+      <a class="navbar-item" href="projects-instructions.html">
         Resources
       </a>
-      <a class="navbar-item" href="project-account-settings.html">
-        Settings
+      <a class="navbar-item" href="projects-help.html">
+        Help
       </a>
     </div>
 
     <div class="navbar-end">
-      <a class="navbar-item" href="login.html">
-        Log out
-      </a>
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          <figure class="image is-24x24">
+                <img class="is-rounded" src="http://blog.galeano.co/wp-content/uploads/2015/01/logo.jpg">
+              </figure>
+          &ensp;Galeano
+        </a>
+
+        <div class="navbar-dropdown is-right">
+          <a class="navbar-item" href="project-account-settings.html">
+            Settings
+          </a>
+          <a class="navbar-item" href="project-account-settings.html#billing">
+            Billing
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item" href="login.html">
+            Logout
+          </a>
+        </div>
+      </div>
     </div>
   </div>
 </nav>
+<!-- End Navbar -->
 
 <section class="section">
       
     <div class="columns">
       
       <div class="column content-body">
-        <h1 class="title is-2">Galeano Creative</h1>
+        <article class="media">
+    <div class="media-left">
+      <figure class="image is-64x64">
+        <img src="http://blog.galeano.co/wp-content/uploads/2015/01/logo.jpg" alt="Image" class="is-rounded">
+      </figure>
+    </div>
+    <div class="media-content">
+      <div class="content">
+        <h1 class="title is-3">Galeano Creative</h1>
+        <p class="subtitle is-6">
+          This is you!
+        </p>
+      </div>
+    </div>
+  </article>
+        
         <hr>
       <div class="level">
         <div class="level-left">
@@ -74,7 +111,7 @@
     </div>
           <div class="columns is-multiline">
             <div class="column is-6">
-              <a href="project-acme.html">
+              <a href="project-acme-origins.html">
                 <div class="box">            
                   <article class="media">
                     <div class="media-content">

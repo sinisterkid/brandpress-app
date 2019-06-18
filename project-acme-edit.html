@@ -89,29 +89,66 @@
     <!--tabs-->
     <div class="tabs">
   <ul>
-    <li><a href="project-acme-edit.html">Edit</a></li>
+    <li class="is-active"><a>Edit</a></li>
     <li><a href="#">Present</a></li>
-    <li class="is-active"><a href="project-share.html">Share</a></li>
+    <li><a href="project-acme-share.html">Share</a></li>
   </ul>
 </div>
+         
                          
 
    
-        <div class="card">
+         <div class="card">
           <div class="card-content">
         <div class="field">
-          <label class="label">Your unique group URL</label>
-          <p>Copy and paste the link below into emails, chats, or browsers</p>
+          <label class="label">Name</label>
           <p class="control">
-            <input class="input" type="email" placeholder="Group name" value="https://sinisterkid.github.io/bulma-ui/exercise-intro.html">
+            <input class="input" type="email" placeholder="Group name" value="Acme Inventors">
           </p>          
         </div>
+        <div class="field">
+          <label class="label">Description</label>
+          <p class="control">
+            <input class="input" type="email" placeholder="A quick summary" value="Ingenious but violent group of scientists">
+          </p>          
+        </div>          
+        <label class="label">Brand Exercises</label>
+        <p class="help">Select the brand exercises for this group</p>
+      <div class="panel">
+        <label class="panel-block">
+            <input type="checkbox" checked>
+            Origins
+          </label>
+        <label class="panel-block">
+            <input type="checkbox" checked>
+            Archetype Adjectives
+          </label>
+        <label class="panel-block">
+            <input type="checkbox" checked>
+            Personality Adjectives
+          </label>
+        <label class="panel-block">
+            <input type="checkbox" checked>
+            Automobile Analogy
+          </label>
+        <label class="panel-block">
+            <input type="checkbox" checked>
+            Celebrity Analogy
+          </label>
+        <label class="panel-block">
+            <input type="checkbox" checked>
+            Brandscape Exercises
+          </label>                              
+      </div>
         <div class="field is-grouped">
           <div class="control">
-            <button class="button is-dark">
-              Copy share URL
+            <button class="button is-dark" onclick="goBack()">
+              Update group
             </button>
           </div>
+          <div class="control">
+            <a class="button is-danger is-outlined" href="group-delete.html">Delete group</a>
+            </div>                  
         </div>
       </div></div>
 
