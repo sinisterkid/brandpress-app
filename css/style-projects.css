@@ -3,7 +3,8 @@ html, body {
 	overflow-y: auto;
 }
 body {
-	background-color: #fff;
+	background-color: #fafbfc;
+	color: #1f2d3d;
 }
 .navbar-item img {
 	opacity: 1;
@@ -44,15 +45,25 @@ a.delete {
     border-left-color: #363636;
     font-weight: bolder;
  }
- .content-body {
- 	max-width: 750px;
+ .container {
+ 	max-width: 960px;
  	margin: auto;
  }
  .project-title {
  	padding: 2rem 0;
- 	border-bottom: 1px solid #ddd;
+ 	background-color: #fff;
+ 	box-shadow: 0 2px 0 0 #f5f5f5;
  }
- .box:hover {
+ .is-dark {
+ 	background-color: 
+ }
+ .navbar {
+ 	box-shadow: none;
+ }
+ .section {
+ 	background-color: #;
+ }
+ a .box:hover {
 	box-shadow: 0 2px 3px rgba(10,10,10,.2), 0 0 0 1px rgba(10,10,10,.2);;
 }
  p.panel-block {
@@ -60,10 +71,6 @@ a.delete {
 }
  .button.is-text {
     text-decoration: none;
-}
-.instructions {
-    background-color: #fff;
-    padding: 2rem;
 }
 .instructions article {
 	padding-bottom: 3rem;
