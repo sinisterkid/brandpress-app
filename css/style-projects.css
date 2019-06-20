@@ -50,7 +50,7 @@ a.delete {
  	margin: auto;
  }
  .project-title {
- 	padding: 2rem 0;
+ 	padding: 2rem 0 0;
  	background-color: #fff;
  	box-shadow: 0 2px 0 0 #f5f5f5;
  }
