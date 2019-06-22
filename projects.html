@@ -11,63 +11,87 @@
   </head>
   <body>
 
-          <section class="section">
-      
-    <div class="columns">
-      
-      <div class="column is-one-fifth content-side">
-            <aside class="menu">
-              <ul class="menu-list">
-    <li><a class="navbar-item" href="groups.html">
-      <img src="images/bp-press-mask.png" width="140px" alt="Brandpress">
-    </a></li>
-    <li><a class="navbar-item is-active" href="projects.html">
-      <span class="icon">
-        <i class="fas fa-box"></i>
-      </span>
-        <span>Projects</span>
+<!--Navbar -->
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="container">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="projects.html">
+      <img src="images/bp-press-mask.png" width="140px">
+    </a>
+
+    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="navbarBasicExample" class="navbar-menu">
+    <div class="navbar-start">
+
+    </div>
+
+    <div class="navbar-end">
+            <a class="navbar-item is-active" href="projects.html">
+        Projects
       </a>
-    </li>
-      <li>
-      <a class="navbar-item" href="instructions.html">
-      <span class="icon">
-        <i class="fas fa-map"></i>
-      </span>
-        <span>Instructions</span>
-      </a></li>
-      <li>
-      <a class="navbar-item" href="pricing.html">
-      <span class="icon">
-        <i class="fas fa-check"></i>
-      </span>
-        <span>Pricing</span>
-      </a></li>
-      <li>
-        <a href="project-account-settings.html">
-      <span class="icon">
-        <i class="fas fa-cog"></i>
-      </span>
-        <span>Settings</span></a>
-      </li>
-              </ul>
-              
-            </aside>
+
+      <a class="navbar-item" href="projects-instructions.html">
+        Resources
+      </a>
+      <a class="navbar-item" href="projects-help.html">
+        Upgrade
+      </a>
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Galeano
+        </a>
+
+        <div class="navbar-dropdown is-right">
+          <a class="navbar-item" href="project-account-settings.html">
+            Settings
+          </a>
+          <a class="navbar-item" href="project-account-settings.html#billing">
+            Billing
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item" href="login.html">
+            Logout
+          </a>
+        </div>
       </div>
-      <div class="column content-body">
-        <h1 class="title is-2">Galeano Creative</h1>
-        <hr>
-      <div class="level">
+    </div>
+  </div>
+</div>
+</nav>
+<!-- End Navbar -->
+
+<div class="page-title">
+  <div class="container">
+              <div class="level">
         <div class="level-left">
           <div class="level-item">
-              <h1 class="title is-4">
-                Projects
-              </h1>
+    <article class="media">
+      <div class="media-left">
+        <figure class="image is-64x64">
+          <img src="http://blog.galeano.co/wp-content/uploads/2015/01/logo.jpg" alt="Image" class="is-rounded">
+        </figure>
+      </div>
+      <div class="media-content">
+        <div class="content">
+          <h1 class="title is-3">Galeano Creative</h1>
+          <p class="is-6">
+            This is you!
+          </p>
+        </div>
+      </div>
+    </article>
           </div>
       </div>
       <div class="level-right">
         <div class="level-item">
           <p>
-            <a class="button" href="group-create.html">
+            <a class="button" href="project-create.html">
               <span class="icon">
                 <i class="fas fa-plus"></i>
               </span>             
@@ -77,9 +101,31 @@
         </div>
       </div>
     </div>
+  </div>
+</div>
+
+<section class="section">
+      <div class="container">
+    <div class="columns">
+      
+      <div class="column content-body">
+        
+      <div class="level">
+        <div class="level-left">
+          <div class="level-item">
+              <h1 class="title is-4">
+                Projects
+              </h1>
+          </div>
+      </div>
+      <div class="level-right">
+
+      </div>
+    </div>
+
           <div class="columns is-multiline">
             <div class="column is-6">
-              <a href="project-origins.html">
+              <a href="project-acme-origins.html">
                 <div class="box">            
                   <article class="media">
                     <div class="media-content">
@@ -165,6 +211,7 @@
           </div>
 </div>
 
+</div>
 </div>
 </section>
     </div>

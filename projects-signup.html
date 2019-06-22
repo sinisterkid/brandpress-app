@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>BrandPress Login</title>
+    <title>Brandpress | Create account</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.0/css/bulma.min.css">
     <link rel="stylesheet" href="css/style-projects.css">
-    <link rel="icon" type="image/png" href="images/bp-press-favicon.png">
+    <link rel="shortcut icon" href="http://underbelly.is/static/favicon.ico" type="image/x-icon"/>
     <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
   </head>
   <body>
@@ -20,12 +20,21 @@
       		<div class="column has-text-centered">
 <img src="images/bp-press-mask.png" width="140">
       	<p class="is-size-6">
-        	Sign into your account here
+        	Create your free Brandpress account
       	</p>
       </div>
   </div>
 	      <div class="card">
 	      	<div class="card-content card-padding">
+				<div class="field">
+					<label class="label">Company name</label>
+				  <p class="control has-icons-left">
+				    <input class="input" type="email" placeholder="Company name">
+				    <span class="icon is-small is-left">
+				      <i class="fas fa-building"></i>
+				    </span>
+				  </p>
+				</div>
 				<div class="field">
 					<label class="label">Email</label>
 				  <p class="control has-icons-left has-icons-right">
@@ -47,15 +56,20 @@
 				    </span>
 				  </p>
 				</div>
-
-				  <div class="content has-text-right">
-    				<p><a href="forgot-password.html" class="">Forgot password?</a></p>
-  				  </div>
-			
+				<div class="field">
+					<label class="label">Confirm password</label>
+				  <p class="control has-icons-left">
+				    <input class="input" type="password" placeholder="Confirm password">
+				    <span class="icon is-small is-left">
+				      <i class="fas fa-lock"></i>
+				    </span>
+				  </p>
+				</div>				
+			<br>
 				<div class="field">
 				  <div class="control">
 				    <a class="button is-dark is-full-width" href="projects.html">
-				      Login
+				      Create account
 				    </a>
 				  </div>
 				</div>
@@ -63,7 +77,7 @@
 			<div class="card-footer">
 				<div class="card-footer-item">
 				<p>
-					Don't have an account? <a href="projects-signup.html">Sign up</a>
+					Already have an account? <a href="login.html">Sign in</a>
 				</p>
 			</div>
 			</div>
