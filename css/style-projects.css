@@ -17,6 +17,12 @@ a.delete {
     top: 1rem;
     right: 1rem;
 }
+.checkbox, .radio {
+    cursor: pointer;
+    display: block;
+    line-height: inherit;
+    position: relative;
+}
 .menu-list a.is-active {
     background-color: transparent;
     color: #000;
