@@ -89,6 +89,33 @@ a.delete {
 .instructions article {
 	padding-bottom: 3rem;
 }
+.pricing h1 {
+	font-size: 3rem;
+	font-weight: 900;
+}
+.pricing h2 {
+	font-family: 'Lato', sans-serif;
+	font-size: 1.5rem;
+	font-weight: normal;
+}
+.pricing h3 {
+	font-family: 'Helvetica', sans-serif;
+	font-size: 3rem;
+	margin: 0;
+}
+.pricing .field {
+    padding: 2rem 0;
+}
+.pricing .box {
+	padding: 3rem;
+}
+.content ul {
+    margin: 0;
+    padding: 0;
+}
+.content li {
+    list-style: none;
+}
 /* BRAND COLORS */
 .button.is-brand {
 	background-color: #363636;
