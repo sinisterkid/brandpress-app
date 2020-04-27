@@ -127,6 +127,19 @@ a.delete {
 .content iframe {
 	max-width: 100%;
 }
+.spectrums {
+	padding: 1rem 2rem;
+}
+.spectrum {
+	margin-bottom: 1.5rem;
+}
+.spectrum .level {
+	margin-bottom: 5px;
+	display: flex!important;
+}
+.spectrum .level-left+.level-right {
+	margin-top: 0;
+}
 /* BRAND COLORS */
 .button.is-brand {
 	background-color: #363636;
