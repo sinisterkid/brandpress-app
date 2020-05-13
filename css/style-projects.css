@@ -127,8 +127,8 @@ a.delete {
 .content iframe {
 	max-width: 100%;
 }
-.spectrums {
-	padding: 1rem 2rem;
+.spectrum p.level-item {
+    font-size: .9rem!important;
 }
 .spectrum {
 	margin-bottom: 1.5rem;
