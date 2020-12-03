@@ -4,7 +4,7 @@
    "name": "page1",
    "elements": [
     {
-     "type": "checkbox",
+     "type": "imagepicker",
      "name": "question1",
      "title": "Which of the following designs appeal to you and your new brand? Select all that apply.",
      "choices": [
@@ -49,7 +49,8 @@
       "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-a-image-10.jpg"
       }
      ],
-     "choicesOrder": "random"
+     "choicesOrder": "random",
+     "multiSelect": "true"
     }
    ]
   },
@@ -57,7 +58,7 @@
    "name": "page2",
    "elements": [
     {
-     "type": "checkbox",
+     "type": "imagepicker",
      "name": "question2",
      "title": "Which of the following designs appeal to you and your new brand? Select all that apply.",
      "choices": [
@@ -102,7 +103,8 @@
       "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-b-image-10.jpg"
       }
      ],
-     "choicesOrder": "random"
+     "choicesOrder": "random",
+     "multiSelect": "true"
     }
    ]
   },
@@ -110,7 +112,7 @@
    "name": "page3",
    "elements": [
     {
-     "type": "checkbox",
+     "type": "imagepicker",
      "name": "question3",
      "title": "Which of the following designs appeal to you and your new brand? Select all that apply.",
      "choices": [
@@ -155,7 +157,8 @@
       "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-c-image-10.jpg"
       }
      ],
-     "choicesOrder": "random"
+     "choicesOrder": "random",
+     "multiSelect": "true"
     }
    ]
   },
@@ -163,7 +166,7 @@
    "name": "page4",
    "elements": [
     {
-     "type": "checkbox",
+     "type": "imagepicker",
      "name": "question4",
      "title": "Which of the following designs appeal to you and your new brand? Select all that apply.",
      "choices": [
@@ -208,7 +211,8 @@
       "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-d-image-10.png"
       }
      ],
-     "choicesOrder": "random"
+     "choicesOrder": "random",
+     "multiSelect": "true"
     }
    ]
   }
