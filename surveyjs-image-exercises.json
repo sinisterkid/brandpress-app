@@ -1,0 +1,217 @@
+{
+ "pages": [
+  {
+   "name": "page1",
+   "elements": [
+    {
+     "type": "checkbox",
+     "name": "question1",
+     "title": "Which of the following designs appeal to you and your new brand? Select all that apply.",
+     "choices": [
+      {
+      "value": "Group A Image 1",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-a-image-1.jpg"
+      },
+      {
+      "value": "Group A Image 2",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-a-image-2.jpg"
+      },
+      {
+      "value": "Group A Image 3",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-a-image-3.jpg"
+      },
+      {
+      "value": "Group A Image 4",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-a-image-4.jpg"
+      },
+      {
+      "value": "Group A Image 5",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-a-image-5.jpg"
+      },
+      {
+      "value": "Group A Image 6",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-a-image-6.jpg"
+      },
+      {
+      "value": "Group A Image 7",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-a-image-7.jpg"
+      },
+      {
+      "value": "Group A Image 8",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-a-image-8.jpg"
+      },
+      {
+      "value": "Group A Image 9",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-a-image-9.jpg"
+      },
+      {
+      "value": "Group A Image 10",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-a-image-10.jpg"
+      }
+     ],
+     "choicesOrder": "random"
+    }
+   ]
+  },
+  {
+   "name": "page2",
+   "elements": [
+    {
+     "type": "checkbox",
+     "name": "question2",
+     "title": "Which of the following designs appeal to you and your new brand? Select all that apply.",
+     "choices": [
+      {
+      "value": "Group B Image 1",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-b-image-1.jpg"
+      },
+      {
+      "value": "Group B Image 2",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-b-image-2.jpg"
+      },
+      {
+      "value": "Group B Image 3",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-b-image-3.jpg"
+      },
+      {
+      "value": "Group B Image 4",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-b-image-4.jpg"
+      },
+      {
+      "value": "Group B Image 5",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-b-image-5.jpg"
+      },
+      {
+      "value": "Group B Image 6",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-b-image-6.jpg"
+      },
+      {
+      "value": "Group B Image 7",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-b-image-7.jpg"
+      },
+      {
+      "value": "Group B Image 8",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-b-image-8.jpg"
+      },
+      {
+      "value": "Group B Image 9",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-b-image-9.jpg"
+      },
+      {
+      "value": "Group B Image 10",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-b-image-10.jpg"
+      }
+     ],
+     "choicesOrder": "random"
+    }
+   ]
+  },
+    {
+   "name": "page3",
+   "elements": [
+    {
+     "type": "checkbox",
+     "name": "question3",
+     "title": "Which of the following designs appeal to you and your new brand? Select all that apply.",
+     "choices": [
+      {
+      "value": "Group C Image 1",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-c-image-1.jpg"
+      },
+      {
+      "value": "Group C Image 2",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-c-image-2.jpg"
+      },
+      {
+      "value": "Group C Image 3",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-c-image-3.jpg"
+      },
+      {
+      "value": "Group C Image 4",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-c-image-4.jpg"
+      },
+      {
+      "value": "Group C Image 5",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-c-image-5.jpg"
+      },
+      {
+      "value": "Group C Image 6",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-c-image-6.jpeg"
+      },
+      {
+      "value": "Group C Image 7",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-c-image-7.jpg"
+      },
+      {
+      "value": "Group C Image 8",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-c-image-8.jpg"
+      },
+      {
+      "value": "Group C Image 9",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-c-image-9.jpg"
+      },
+      {
+      "value": "Group C Image 10",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-c-image-10.jpg"
+      }
+     ],
+     "choicesOrder": "random"
+    }
+   ]
+  },
+    {
+   "name": "page4",
+   "elements": [
+    {
+     "type": "checkbox",
+     "name": "question4",
+     "title": "Which of the following designs appeal to you and your new brand? Select all that apply.",
+     "choices": [
+      {
+      "value": "Group D Image 1",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-d-image-1.jpg"
+      },
+      {
+      "value": "Group D Image 2",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-d-image-2.jpg"
+      },
+      {
+      "value": "Group D Image 3",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-d-image-3.png"
+      },
+      {
+      "value": "Group D Image 4",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-d-image-4.png"
+      },
+      {
+      "value": "Group D Image 5",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-d-image-5.png"
+      },
+      {
+      "value": "Group D Image 6",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-d-image-6.png"
+      },
+      {
+      "value": "Group D Image 7",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-d-image-7.png"
+      },
+      {
+      "value": "Group D Image 8",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-d-image-8.png"
+      },
+      {
+      "value": "Group D Image 9",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-d-image-9.jpg"
+      },
+      {
+      "value": "Group D Image 10",
+      "imageLink": "https://s3-us-west-2.amazonaws.com/brandpress/images/group-d-image-10.png"
+      }
+     ],
+     "choicesOrder": "random"
+    }
+   ]
+  }
+ ],
+ "showQuestionNumbers": "off"
+}
